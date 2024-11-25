@@ -235,6 +235,12 @@ const styles = StyleSheet.create({
   content: {
     padding: 16,
   },
+  content2: {
+    padding: 16,
+  },
+  content1: {
+    padding: 16,
+  },
 });
 
 export default MediaAnalytics;
